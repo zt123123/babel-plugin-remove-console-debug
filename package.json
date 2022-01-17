@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-console-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel plugin to remove console.debug statements from output code",
   "main": "src/index.js",
   "maintainers": [
